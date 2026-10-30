@@ -11,7 +11,7 @@
 
 ---
 
-## 過去の開催アーカイブ
+## 過去の開催
 
 * [令和8年](https://sites.google.com/view/rims2026/home)（2月18日〜20日）
 * [令和7年](https://sites.google.com/view/rims2025/home)（2月19日〜21日）

@@ -11,13 +11,11 @@
 ## General Information
 
 * **Dates**: February 15 (Monday) – 17 (Wednesday), 2027
-* **Venue**: Room 420, Research Institute for Mathematical Sciences (RIMS), Kyoto University
+* **Venue**: Room 420, Research Institute for Mathematical Sciences (RIMS), Kyoto University ([Access](https://www.kurims.kyoto-u.ac.jp/kyoten/en/access.html))
 
 <iframe src="https://www.google.com/maps?q=Research%20Institute%20for%20Mathematical%20Sciences%2C%20Kyoto%20University&z=16&output=embed" width="100%" height="400" style="border:0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Map to RIMS, Kyoto University"></iframe>
 
 [Open in Google Maps](https://maps.google.com/?q=Research+Institute+for+Mathematical+Sciences,+Kyoto+University)
-
-[RIMS access guide (transportation)](https://www.kurims.kyoto-u.ac.jp/kyoten/en/access.html)
 
 ---
 
@@ -31,11 +29,10 @@ To be announced.
 
 We invite presentations on all aspects of theoretical computer science, mathematical logic, algebraic systems, formal language theory, and related fields.
 
-* **Deadline**: December 28 (Monday), 2026, 23:59 JST
-* [**Application form**](https://docs.google.com/forms/d/e/1FAIpQLSeKo_a6giA1hEJ0dxnUjHsGsetTtWEo-a-uuEcEzdpAe49xOw/viewform)
+* [**Register here**](https://docs.google.com/forms/d/e/1FAIpQLSeKo_a6giA1hEJ0dxnUjHsGsetTtWEo-a-uuEcEzdpAe49xOw/viewform) by December 28 (Monday), 2026, 23:59 JST.
 
-> **Travel support**
-> Limited travel support may be available, with priority given to early-career researchers and students. Please indicate your request (email address below) by December 21 (Monday), 2026.
+**Travel support**:
+Limited travel support may be available, with priority given to early-career researchers and students. Please indicate your request (email address below) by December 21 (Monday), 2026.
 
 ---
 
