@@ -10,9 +10,12 @@
 
 ## General Information
 
-* **Dates**: February 15 (Mon)–17 (Wed), 2027
+* **Dates**: February 15 (Monday) – 17 (Wednesday), 2027
 * **Venue**: Room 420, Research Institute for Mathematical Sciences (RIMS), Kyoto University
-* **Host**: Research Institute for Mathematical Sciences (RIMS), Kyoto University
+
+<iframe src="https://www.google.com/maps?q=Research%20Institute%20for%20Mathematical%20Sciences%2C%20Kyoto%20University&z=16&output=embed" width="100%" height="400" style="border:0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Map to RIMS, Kyoto University"></iframe>
+
+[Open in Google Maps](https://maps.google.com/?q=Research+Institute+for+Mathematical+Sciences,+Kyoto+University)
 
 ---
 
@@ -38,7 +41,7 @@ We invite presentations on all aspects of theoretical computer science, mathemat
 
 The program will be posted here once available.
 
-* [Program (PDF)](#) (Coming soon)
+* [Program](#) (Coming soon)
 
 ---
 

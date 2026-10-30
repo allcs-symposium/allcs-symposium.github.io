@@ -1,8 +1,8 @@
 ---
 ---
 
-@import "jekyll-theme-cayman";
+@import "jekyll-theme-primer";
 
-.page-header {
+.markdown-body > h1:first-child {
   display: none;
 }

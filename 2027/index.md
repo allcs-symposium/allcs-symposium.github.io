@@ -12,7 +12,10 @@
 
 * **日程**: 令和9年2月15日（月）〜 17日（水）
 * **会場**: 京都大学 数理解析研究所 420号室
-* **主催**: 京都大学 数理解析研究所（RIMS）
+
+<iframe src="https://www.google.com/maps?q=Research%20Institute%20for%20Mathematical%20Sciences%2C%20Kyoto%20University&z=16&output=embed" width="100%" height="400" style="border:0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="京都大学 数理解析研究所の地図"></iframe>
+
+[Googleマップで開く](https://maps.google.com/?q=Research+Institute+for+Mathematical+Sciences,+Kyoto+University)
 
 ---
 
@@ -38,7 +41,7 @@
 
 プログラムは決定次第、こちらに掲載いたします。
 
-* [プログラム（PDF）](#)（準備中）
+* [プログラム](#)（準備中）
 
 ---
 
