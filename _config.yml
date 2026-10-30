@@ -1,0 +1,5 @@
+title: "RIMS Symposia: Algebra, Logic and Languages"
+description: "研究集会「代数・論理・言語と計算機科学」ポータルサイト"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
