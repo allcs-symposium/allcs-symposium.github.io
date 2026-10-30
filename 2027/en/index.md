@@ -17,6 +17,8 @@
 
 [Open in Google Maps](https://maps.google.com/?q=Research+Institute+for+Mathematical+Sciences,+Kyoto+University)
 
+[RIMS access guide (transportation)](https://www.kurims.kyoto-u.ac.jp/kyoten/en/access.html)
+
 ---
 
 ## Invited Speakers
@@ -29,11 +31,11 @@ To be announced.
 
 We invite presentations on all aspects of theoretical computer science, mathematical logic, algebraic systems, formal language theory, and related fields.
 
-* **Application deadline**: December 28 (Mon), 2026, 23:59 JST
-* **Application form**: [English form](https://docs.google.com/forms/d/e/1FAIpQLSeKo_a6giA1hEJ0dxnUjHsGsetTtWEo-a-uuEcEzdpAe49xOw/viewform)
+* **Deadline**: December 28 (Monday), 2026, 23:59 JST
+* [**Application form**](https://docs.google.com/forms/d/e/1FAIpQLSeKo_a6giA1hEJ0dxnUjHsGsetTtWEo-a-uuEcEzdpAe49xOw/viewform)
 
 > **Travel support**
-> Limited travel support may be available, with priority given to early-career researchers and students. Please indicate your request in the application form.
+> Limited travel support may be available, with priority given to early-career researchers and students. Please indicate your request (email address below) by December 21 (Monday), 2026.
 
 ---
 

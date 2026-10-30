@@ -17,6 +17,8 @@
 
 [Googleマップで開く](https://maps.google.com/?q=Research+Institute+for+Mathematical+Sciences,+Kyoto+University)
 
+[交通案内](https://www.kurims.kyoto-u.ac.jp/kyoten/ja/access.html)
+
 ---
 
 ## 招待講演
@@ -29,11 +31,11 @@
 
 本研究集会では、理論計算機科学、数理論理学、代数系、言語理論、およびその周辺分野に関する講演を広く募集いたします。
 
-* **申込締切**: 令和8年12月28日（月）23:59（日本時間）
-* **申込フォーム**: [日本語フォーム](https://docs.google.com/forms/d/e/1FAIpQLScAIoldyfsDoApkpTKFLv87LvRoLj6JGM6PgLlP-5A-pve-NA/viewform)
+* 締切　令和8年12月28日（月）23:59（日本時間）
+* [**申込フォーム**](https://docs.google.com/forms/d/e/1FAIpQLScAIoldyfsDoApkpTKFLv87LvRoLj6JGM6PgLlP-5A-pve-NA/viewform)
 
 > **旅費支援について**
-> 若手研究者・大学院生等を優先とし、予算の範囲内で旅費の支給が可能です。ご希望の方は申込フォームにてお知らせください。
+> 若手研究者・大学院生等を優先とし、予算の範囲内で旅費の支給が可能です。ご希望の方は下記問合せ先へ令和8年12月21日（月）までにお知らせください。
 
 ---
 
