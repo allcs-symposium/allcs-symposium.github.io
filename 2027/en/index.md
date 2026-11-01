@@ -2,6 +2,8 @@
 
 [日本語](../)
 
+[Home / トップページ](../../)
+
 ## RIMS Symposium
 
 [RIMS Joint Research (Open Type), FY2026](https://www.kurims.kyoto-u.ac.jp/kyoten/en/workshop.html)
@@ -28,11 +30,10 @@ To be announced.
 ## Call for Papers & Registration
 
 We invite presentations on all aspects of theoretical computer science, mathematical logic, algebraic systems, formal language theory, and related fields.
-
-* [**Register here**](https://docs.google.com/forms/d/e/1FAIpQLSeKo_a6giA1hEJ0dxnUjHsGsetTtWEo-a-uuEcEzdpAe49xOw/viewform) by December 28 (Monday), 2026, 23:59 JST.
+[**Register here**](https://docs.google.com/forms/d/e/1FAIpQLSeKo_a6giA1hEJ0dxnUjHsGsetTtWEo-a-uuEcEzdpAe49xOw/viewform) by **December 28 (Monday), 2026**.
 
 **Travel support**:
-Limited travel support may be available, with priority given to early-career researchers and students. Please indicate your request (email address below) by December 21 (Monday), 2026.
+Limited travel support may be available, with priority given to early-career researchers and students. Please indicate your request (email address below) by December 18 (Friday), 2026.
 
 ---
 
@@ -46,5 +47,5 @@ The program will be posted here once available.
 
 ## Contact
 
-* Akitoshi Kawamura (Kyoto University)
+* [Akitoshi Kawamura](https://www.kurims.kyoto-u.ac.jp/~kawamura/index_e.html) (Kyoto University)
 * Email: [kawamura@kurims.kyoto-u.ac.jp](mailto:kawamura@kurims.kyoto-u.ac.jp)

@@ -2,6 +2,8 @@
 
 [English](./en/)
 
+[トップページ / Home](../)
+
 ## RIMSシンポジウム：Languages, Logics and Algebras in Computer Science
 
 [令和8年度 RIMS共同研究（公開型）](https://www.kurims.kyoto-u.ac.jp/kyoten/ja/workshop.html)
@@ -27,11 +29,11 @@
 
 ## 講演募集・参加登録
 
-本研究集会では、理論計算機科学、数理論理学、代数系、言語理論、およびその周辺分野に関する講演を広く募集いたします。
+本研究集会では、理論計算機科学、数理論理学、代数系、言語理論、およびその周辺分野に関する講演を広く募集いたします。**令和8年12月28日（月）** までに [**こちらの講演・参加申込フォーム**](https://docs.google.com/forms/d/e/1FAIpQLScAIoldyfsDoApkpTKFLv87LvRoLj6JGM6PgLlP-5A-pve-NA/viewform) よりお申込み下さい。ご聴講のみの参加の場合も、ご登録をお願い致します。
 
-* 令和8年12月28日（月）23:59（日本時間）までに [**こちらの講演・参加申込フォームよりお申込み下さい**](https://docs.google.com/forms/d/e/1FAIpQLScAIoldyfsDoApkpTKFLv87LvRoLj6JGM6PgLlP-5A-pve-NA/viewform)。
+講演は通常（質疑込で30分）または短め（15分）からお選びください（プログラムの都合上、短縮する場合があります）。可能なかぎり英語による講演（少なくとも英語による発表資料）をお願いしております．
 
-**旅費支援について**　若手研究者・大学院生等を優先とし、予算の範囲内で旅費の支給が可能です。ご希望の方は下記問合せ先へ令和8年12月21日（月）までにお知らせください。
+**旅費支援について**　若手研究者・大学院生等の講演者を優先とし、予算の範囲内で旅費の支給が可能です。ご希望の方は下記問合せ先へ令和8年12月18日（金）までにお知らせください。
 
 ---
 
@@ -44,5 +46,5 @@
 ---
 
 ## お問合せ
-* 河村 彰星（京都大学）
+* [河村 彰星](https://www.kurims.kyoto-u.ac.jp/~kawamura/)（京都大学）
 * メール: [kawamura@kurims.kyoto-u.ac.jp](mailto:kawamura@kurims.kyoto-u.ac.jp)
