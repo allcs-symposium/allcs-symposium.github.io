@@ -1,12 +1,10 @@
 <small>令和8年度 <a href="https://www.kurims.kyoto-u.ac.jp/kyoten/ja/workshop.html">RIMS共同研究（公開型）</a></small>
 
-# 言語・論理・代数と計算機科学
+# 言語・論理・代数と計算機科学 Languages, Logics and Algebras in Computer Science
 
 [English](./en/)
 
 [トップページ / Home](../)
-
-## RIMSシンポジウム：Languages, Logics and Algebras in Computer Science
 
 ---
 

@@ -1,12 +1,10 @@
-<small>A <a href="https://www.kurims.kyoto-u.ac.jp/kyoten/en/workshop.html">RIMS Joint Research (Open Type)</a> meeting for FY2026</small>
+<small><a href="https://www.kurims.kyoto-u.ac.jp/kyoten/en/workshop.html">RIMS Symposium</a></small>
 
 # Languages, Logics and Algebras in Computer Science
 
 [日本語](../)
 
 [Home / トップページ](../../)
-
-## RIMS Symposium
 
 ---
 
