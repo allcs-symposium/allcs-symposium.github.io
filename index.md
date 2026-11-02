@@ -1,6 +1,6 @@
-# 代数・論理・言語と計算機科学
+# 代数・論理・言語と計算機科学 / Algebra, Logic and Languages in Computer Science
 
-本研究集会は、代数系、数理論理、言語理論、およびそれらの計算機科学への応用に関する研究者が集い、最新の研究成果を発表・討論するRIMS共同研究集会です。
+本研究集会は、代数系、数理論理、言語理論、およびそれらの計算機科学への応用に関する研究者が集い、最新の研究成果を発表・討論するRIMS共同利用研究集会です。
 
 This symposium brings together researchers in algebra, mathematical logic, formal languages, and their applications to computer science to present and discuss recent research. It is a RIMS joint research meeting.
 

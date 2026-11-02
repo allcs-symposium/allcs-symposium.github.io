@@ -1,3 +1,5 @@
+<small>A <a href="https://www.kurims.kyoto-u.ac.jp/kyoten/en/workshop.html">RIMS Joint Research (Open Type)</a> meeting for FY2026</small>
+
 # Languages, Logics and Algebras in Computer Science
 
 [日本語](../)
@@ -5,8 +7,6 @@
 [Home / トップページ](../../)
 
 ## RIMS Symposium
-
-[RIMS Joint Research (Open Type), FY2026](https://www.kurims.kyoto-u.ac.jp/kyoten/en/workshop.html)
 
 ---
 
@@ -41,11 +41,12 @@ Limited travel support may be available, with priority given to early-career res
 
 The program will be posted here once available.
 
-* [Program](#) (Coming soon)
+<!--
+* [Program](#) (TBA)
+-->
 
 ---
 
 ## Contact
 
-* [Akitoshi Kawamura](https://www.kurims.kyoto-u.ac.jp/~kawamura/index_e.html) (Kyoto University)
-* Email: [kawamura@kurims.kyoto-u.ac.jp](mailto:kawamura@kurims.kyoto-u.ac.jp)
+* [Akitoshi Kawamura](https://www.kurims.kyoto-u.ac.jp/~kawamura/index_e.html) (Kyoto University) [kawamura@kurims.kyoto-u.ac.jp](mailto:kawamura@kurims.kyoto-u.ac.jp)

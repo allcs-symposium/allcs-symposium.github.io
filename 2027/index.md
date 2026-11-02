@@ -1,3 +1,5 @@
+<small>令和8年度 <a href="https://www.kurims.kyoto-u.ac.jp/kyoten/ja/workshop.html">RIMS共同研究（公開型）</a></small>
+
 # 言語・論理・代数と計算機科学
 
 [English](./en/)
@@ -5,8 +7,6 @@
 [トップページ / Home](../)
 
 ## RIMSシンポジウム：Languages, Logics and Algebras in Computer Science
-
-[令和8年度 RIMS共同研究（公開型）](https://www.kurims.kyoto-u.ac.jp/kyoten/ja/workshop.html)
 
 ---
 
@@ -46,5 +46,4 @@
 ---
 
 ## お問合せ
-* [河村 彰星](https://www.kurims.kyoto-u.ac.jp/~kawamura/)（京都大学）
-* メール: [kawamura@kurims.kyoto-u.ac.jp](mailto:kawamura@kurims.kyoto-u.ac.jp)
+* [河村 彰星](https://www.kurims.kyoto-u.ac.jp/~kawamura/)（京都大学）[kawamura@kurims.kyoto-u.ac.jp](mailto:kawamura@kurims.kyoto-u.ac.jp)
