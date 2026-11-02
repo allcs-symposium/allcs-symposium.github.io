@@ -6,7 +6,7 @@ This symposium brings together researchers in algebra, mathematical logic, forma
 
 ## 次回・最新の開催 / Next Symposium
 
-* **令和9年 / 2027** ([日本語](./2027/) / [English](./2027/en/))
+* **令和9年 / 2027** ([日本語](./2027/ja/) / [English](./2027/en/))
   * 2月15日（月）〜 17日（水） / February 15–17
   * 京都大学 数理解析研究所 420号室 / Room 420, Research Institute for Mathematical Sciences, Kyoto University
   

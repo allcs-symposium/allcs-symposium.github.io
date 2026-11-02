@@ -2,7 +2,7 @@
 
 # Languages, Logics and Algebras in Computer Science
 
-[日本語](../)
+[日本語](../ja/)
 
 [Home / トップページ](../../)
 
