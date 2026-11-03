@@ -25,13 +25,15 @@ To be announced.
 
 ---
 
-## Call for Papers & Registration
+## Call for Talks & Registration
 
 We invite presentations on all aspects of theoretical computer science, mathematical logic, algebraic systems, formal language theory, and related fields.
-[**Register here**](https://docs.google.com/forms/d/e/1FAIpQLSeKo_a6giA1hEJ0dxnUjHsGsetTtWEo-a-uuEcEzdpAe49xOw/viewform) by **December 28 (Monday), 2026**.
 
-**Travel support**:
-Limited travel support may be available, with priority given to early-career researchers and students. Please indicate your request (email address below) by December 18 (Friday), 2026.
+**Registration and talk submission**: Please register using [**this form**](https://docs.google.com/forms/d/e/1FAIpQLSeKo_a6giA1hEJ0dxnUjHsGsetTtWEo-a-uuEcEzdpAe49xOw/viewform) by **December 28 (Monday), 2026**. Registration is also required for participants who wish to attend without giving a talk.
+
+**Talk format**: You may choose between a regular talk (30 minutes, including Q&A) and a short talk (15 minutes). Depending on the number of submissions, talks may be shortened to fit the schedule. 
+
+**Travel support**: Within the limits of the available budget, travel support may be provided to speakers, with priority given to early-career researchers and graduate students. If you wish to be considered, please let us know by email (see Contact below) by **December 18 (Friday), 2026**, which is earlier than the registration deadline so that we can plan the budget.
 
 ---
 

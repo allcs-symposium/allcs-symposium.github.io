@@ -1,5 +1,5 @@
-title: "ALLCS"
-description: "研究集会ポータルサイト"
+title: "Algebra, Logic and Languages in Computer Science"
+description: "Symposium Series on Algebra, Logic and Languages in Computer Science"
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
   - jekyll-remote-theme
